@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+    background-size: cover;
+    animation: anim_1 1s infinite linear;
+}
+
+@keyframes anim_1 {
+    from {
+        background-image: url("http://images.indianexpress.com/2017/07/dhoni-7591.jpg");
+    }
+    to {
+        background-image: url("http://timesofindia.indiatimes.com/photo/msid-56338157/56338157.jpg?337526");
+    }
+}

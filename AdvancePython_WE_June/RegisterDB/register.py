@@ -19,7 +19,7 @@ def print_html(username,email):
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Calculator</title>
+    <title>Register</title>
     <style>
         h2 {
          color: red;
